@@ -1,6 +1,6 @@
 # The Open Source Audit: Firefox
 
-**Student Name:** pushpendar <br>
+**Student Name:** Pushpendar singh<br>
 **Registration Number:** 24BSA10341 <br>
 **Project Focus:** Firefox (FOSS Audit)
 
